@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Http;
-using WizardOrbit.Core.Extension;
 
 namespace WizardOrbit.Core.CrossCuttingConcern.Session
 {
